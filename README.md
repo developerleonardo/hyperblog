@@ -9,6 +9,8 @@ Un blog increíble para el curso de Git y Gitgub de platzi
 * El flujo de trabajo en Github
 * trucos
 * Creado por platzi
+* Incluye ejemplos en windows
+* Disponible para todas las edades
 
 
 Es un curso realizado en Platzi
