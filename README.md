@@ -8,5 +8,7 @@ Un blog increíble para el curso de Git y Gitgub de platzi
 * Todos los comanos de Git
 * El flujo de trabajo en Github
 * trucos
+* Creado por platzi
+
 
 Es un curso realizado en Platzi
